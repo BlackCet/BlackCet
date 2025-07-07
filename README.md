@@ -22,7 +22,7 @@
 
 
 -- 🤖 Hi, I’m @BlackCet  
-- 👀 I’m interested in Data Structures & Algorithms, Full-Stack Development, and System Design  
+- 👀 I’m interested in Problem Solving, Full-Stack Development, and System Design  
 - 🌱 Currently exploring AI
 - 💞️ I’m looking to collaborate on open-source projects related to backend systems or web applications  
 - 🎮 Play my **Rock-Paper-Scissors** game: **[blackcet.github.io/Rock_Paper_Scissors/](https://blackcet.github.io/Rock_Paper_Scissors/)** 👽  
