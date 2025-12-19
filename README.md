@@ -23,7 +23,7 @@
 
 -- 🤖 Hi, I’m @BlackCet  
 - 👀 I’m interested in Problem Solving, Full-Stack Development, and System Design  
-- 🌱 Currently exploring AI
+- 🌱 Currently exploring System design
 - 💞️ I’m looking to collaborate on open-source projects related to backend systems or web applications  
 - 🎮 Play my **Rock-Paper-Scissors** game: **[blackcet.github.io/Rock_Paper_Scissors/](https://blackcet.github.io/Rock_Paper_Scissors/)** 👽  
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/anushka-prajapati-415b68284/)**  
