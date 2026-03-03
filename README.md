@@ -28,7 +28,7 @@
 - 🎮 Play my **Rock-Paper-Scissors** game: **[blackcet.github.io/Rock_Paper_Scissors/](https://blackcet.github.io/Rock_Paper_Scissors/)** 👽  
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/anushka-prajapati-415b68284/)**  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: In 1947, Grace Hopper found a moth trapped inside the Harvard Mark II computer, which caused a malfunction. She called it "debugging," and the term stuck!
+- ⚡ Fun fact: I lag
 
 
 <!---
