@@ -16,14 +16,7 @@
              | | :  `- \`. ;`. _/; .'/ /  .' ; |
              \  \ `-.   \_\_`. _.'_/_/  -' _.' /
    ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
-                           `=--=-'                    hjw
-
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/cat.php?category_id=349
-
-
+                           `=--=-'                    
 
 -- 🤖 Hi, I’m @BlackCet  
 - 👀 I’m interested in Problem Solving, Full-Stack Development, and System Design  
