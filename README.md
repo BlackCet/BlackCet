@@ -1,8 +1,5 @@
--- 🤖 Hi, I’m Anushka (@BlackCet)
+-- 🤖 Hi, I’m @BlackCet
 - 🎓 3rd-year B.Tech CSE student at MNNIT Allahabad 
-- 👀 I’m interested in DSA, Full-Stack Development (MERN), and System Design  
+- 👀 I’m interested in DSA, Full-Stack Development, and System Design  
 - 🌱 Currently exploring AI/ML integrations and expanding my practical knowledge
-- 💞️ I’m looking to collaborate on open-source projects related to backend systems or MERN stack applications   
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/anushka-prajapati-415b68284/)**  
-- 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I lag
