@@ -1,5 +1,5 @@
 -- 🤖 Hi, I’m @BlackCet
 - 🎓 3rd-year B.Tech CSE student at MNNIT Allahabad 
-- 👀 I’m interested in DSA, Full-Stack Development, and System Design  
+- 👀 I’m interested in Building, Full-Stack Development, and System Design  
 - 🌱 Currently exploring AI/ML integrations and expanding my practical knowledge
 - ⚡ Fun fact: I lag
